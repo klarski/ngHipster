@@ -1,0 +1,56 @@
+body{
+	background-color: #D6D2C7;
+}
+
+h1, h2 {
+	font-family: 'Vast Shadow', cursive;
+	font-weight: 400;
+	color: #333;
+}
+
+h3, h4, h5, h6 {
+	font-family: 'Lato', sans-serif;
+	font-weight: 400;
+	color: #333;
+
+}
+
+p {
+	font-family: 'Lato', sans-serif;
+	color: #222;
+	font-size: 1.3em;
+	font-weight: 300;
+}
+
+a{
+	font-family: 'Lato', sans-serif;
+	font-weight: 300;
+}
+
+
+.navbar {
+	border-radius: 0;
+	background-color: #278E7B;
+}
+
+.navbar a {
+	color: #fff;
+	margin-top: 15px;
+	font-size: 1.2em;
+}
+
+.navbar a:hover {
+	border-radius: 5px;
+}
+
+.jumbotron{
+	clear: both;
+}
+
+.panel-body button {
+	margin-top: 10px;
+}
+
+form {
+	margin-top: 10px;
+}
